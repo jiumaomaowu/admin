@@ -1,29 +1,5 @@
 # admin
 
-## Project setup
-```
-npm install
-```
+### 这是一个vue写的后台管理系统项目。
+其中包括实现的功能：用工号进行登录，登陆页面的前端校验，登陆状态管理、登陆跳转。动态导航路由的处理，模块内的增删改查等操作、对权限的控制，通过权限控制访问不同页面。对axios的拦截，自定义状态码处理返回结果，和封装，对接API接口。其中包括组件的通信，自定义组件的引用。数据的双向绑定操作。并使用ele-ui框架 对ele-ui内的组件进行二次开发。vuex状态管理器的应用。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
